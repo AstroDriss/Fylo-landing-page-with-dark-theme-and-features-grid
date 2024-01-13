@@ -19,8 +19,8 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [not yet](https://your-solution-url.com)
-- Live Site URL: [not avalible](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/fylo-landing-page-vtynpOdA7a)
+- Live Site URL: [live demo](https://fylo-landing-page-with-dark-theme-and-features-grid-gamma.vercel.app/)
 
 ## My process
 
